@@ -41,6 +41,8 @@ public abstract class PopWheelView<T> {
 
     public abstract void onLoopViewSelected(int index);
 
+
+
     public void showDialog() {
         bgSetDialog.show();
     }

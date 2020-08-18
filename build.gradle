@@ -36,7 +36,7 @@ publish {
     userOrg = 'ffanjunqiang'                 //bintray注册的用户名
     groupId = 'com.fjq'   //compile引用时的第1部分groupId
     artifactId = 'loopviewdialog'                //compile引用时的第2部分项目名
-    publishVersion = '0.0.1'            //compile引用时的第3部分版本号
+    publishVersion = '0.0.2'            //compile引用时的第3部分版本号
     desc = 'ios style loopview-dialog'
-    website = 'https://github.com/zhudfly/Connector'
+    website = 'https://github.com/ggNirvana/PopWheelView/tree/master'
 }
